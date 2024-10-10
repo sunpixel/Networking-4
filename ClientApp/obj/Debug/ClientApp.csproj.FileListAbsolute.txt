@@ -1,0 +1,7 @@
+C:\Users\Sun\Desktop\Programming\Networking 4\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Sun\Desktop\Programming\Networking 4\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Sun\Desktop\Programming\Networking 4\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Sun\Desktop\Programming\Networking 4\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Sun\Desktop\Programming\Networking 4\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Sun\Desktop\Programming\Networking 4\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Sun\Desktop\Programming\Networking 4\ClientApp\obj\Debug\ClientApp.pdb

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1583AD2-BAB6-453F-80EF-A3D72AFDF8C0}|ClientApp\\ClientApp.csproj|C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1583AD2-BAB6-453F-80EF-A3D72AFDF8C0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BDE947-4EC1-49C4-B4FD-06E151EC9AD2}|Networking 4\\Networking 4.csproj|c:\\users\\sun\\desktop\\programming\\networking 4\\networking 4\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BDE947-4EC1-49C4-B4FD-06E151EC9AD2}|Networking 4\\Networking 4.csproj|solutionrelative:networking 4\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BDE947-4EC1-49C4-B4FD-06E151EC9AD2}|Networking 4\\Networking 4.csproj|c:\\users\\sun\\desktop\\programming\\networking 4\\networking 4\\assets\\123.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32BDE947-4EC1-49C4-B4FD-06E151EC9AD2}|Networking 4\\Networking 4.csproj|solutionrelative:networking 4\\assets\\123.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "123.txt",
+              "DocumentMoniker": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\Assets\\123.txt",
+              "RelativeDocumentMoniker": "Networking 4\\Assets\\123.txt",
+              "ToolTip": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\Assets\\123.txt",
+              "RelativeToolTip": "Networking 4\\Assets\\123.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-10T08:40:12.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:18:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Networking 4\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Networking 4\\Controllers\\FileController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwFMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:46:40.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

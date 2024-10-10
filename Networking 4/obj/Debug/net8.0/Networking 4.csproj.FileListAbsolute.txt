@@ -1,0 +1,32 @@
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\appsettings.json
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Networking 4.exe
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Networking 4.deps.json
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Networking 4.runtimeconfig.json
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Networking 4.dll
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Networking 4.pdb
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.csproj.AssemblyReference.cache
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.AssemblyInfoInputs.cache
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.AssemblyInfo.cs
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.csproj.CoreCompileInputs.cache
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\staticwebassets\msbuild.Networking 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\staticwebassets\msbuild.build.Networking 4.props
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Networking 4.props
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Networking 4.props
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\scopedcss\bundle\Networking 4.styles.css
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networki.D5598037.Up2Date
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.dll
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\refint\Networking 4.dll
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.pdb
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\Networking 4.genruntimeconfig.cache
+C:\Users\Sun\Desktop\Programming\Networking 4\Networking 4\obj\Debug\net8.0\ref\Networking 4.dll
