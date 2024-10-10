@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\Networking 4.csproj": {}
+    "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking-4\\Networking 4\\Networking 4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\Networking 4.csproj": {
+    "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking-4\\Networking 4\\Networking 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\Networking 4.csproj",
+        "projectUniqueName": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking-4\\Networking 4\\Networking 4.csproj",
         "projectName": "Networking 4",
-        "projectPath": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\Networking 4.csproj",
-        "packagesPath": "C:\\Users\\Sun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sun\\Desktop\\Programming\\Networking 4\\Networking 4\\obj\\",
+        "projectPath": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking-4\\Networking 4\\Networking 4.csproj",
+        "packagesPath": "C:\\Users\\SunPixel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking-4\\Networking 4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SunPixel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -95,7 +95,7 @@ namespace FileTransferClient
                 if (response.IsSuccessStatusCode)
                 {
                     var data = await response.Content.ReadAsByteArrayAsync();
-                    var savePath = Path.Combine(@"C:\Users\Sun\Downloads", fileName);
+                    var savePath = Path.Combine(@"C:\Users\SunPixel\Downloads", fileName);  // Требуеться изменение под каждый новы ПК
 
                     // Асинхронное сохранение файла
                     using (var fileStream = new FileStream(savePath, FileMode.Create, FileAccess.Write, FileShare.None, 4096, true))
